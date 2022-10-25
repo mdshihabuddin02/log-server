@@ -17,6 +17,7 @@ public class LogServerApplication extends SpringBootServletInitializer {
 	
 	public static void main(String... args) {
         SpringApplication.run(LogServerApplication.class, args);
+	//comment
     }
 
 }
