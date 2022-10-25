@@ -99,6 +99,9 @@
 					</excludes>
 				</configuration>
 			</plugin>
+			<plugin>
+    				<artifactId>maven-war-plugin</artifactId>
+			</plugin>
 		</plugins>
 	</build>
 
